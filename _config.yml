@@ -26,6 +26,8 @@ github_username:  danny50610
 excerpt_separator: <!--more-->
 show_excerpts: true
 
+google_analytics: UA-64307602-9
+
 minima:
   date_format: "%Y-%m-%d %H:%M"
 
