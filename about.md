@@ -24,6 +24,6 @@ permalink: /about/
 而且個人比較熟悉 Markdown  
 就乾脆來用 Github Page，比較可以客製化(?
 
-舊部落格連結：[https://danny50610.blogspot.com/](https://danny50610.blogspot.com/)
+舊部落格連結：<a href="https://danny50610.blogspot.com/" target="_blank" rel="noopener">https://danny50610.blogspot.com/</a>
 
 那邊的文章就不會搬過來了
