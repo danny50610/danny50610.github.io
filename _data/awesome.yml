@@ -1,0 +1,27 @@
+- name: 前端
+  items:
+    - name: Bootstrap
+      url: https://getbootstrap.com/
+    - name: Font Awesome
+      url: https://fontawesome.com/
+    - name: Animate.css
+      url: https://daneden.github.io/animate.css/
+
+- name: 後端
+  items:
+    - name: Laravel
+      url: https://laravel.com/
+
+- name: Tool
+  items:
+    - name: "REDbot: <>"
+      url: https://redbot.org/
+      description: Cache header 分析器
+    - name: 3v4l
+      url: https://3v4l.org/
+      description: Online PHP editor，特色是同時在不同版本的 PHP 上執行
+    - name: Have I Been Pwned
+      url: https://haveibeenpwned.com/
+      description: 收集外洩的帳密資料，供使用者查詢自己的帳密是否外洩
+      news:
+        - https://www.ithome.com.tw/news/128346
