@@ -25,3 +25,9 @@
       description: 收集外洩的帳密資料，供使用者查詢自己的帳密是否外洩
       news:
         - https://www.ithome.com.tw/news/128346
+
+- name: Java
+  items:
+    - name: AdoptOpenJDK
+      url: https://adoptopenjdk.net/index.html
+      description: Prebuilt OpenJDK Binaries for Free!
