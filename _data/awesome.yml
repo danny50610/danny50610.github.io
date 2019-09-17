@@ -6,6 +6,10 @@
       url: https://fontawesome.com/
     - name: Animate.css
       url: https://daneden.github.io/animate.css/
+    - name: Can I use... Support tables for HTML5, CSS3, etc
+      url: https://caniuse.com/
+    - name: Can I email… Support tables for HTML and CSS in emails
+      url: https://www.caniemail.com/
 
 - name: 後端
   items:
