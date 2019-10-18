@@ -32,6 +32,9 @@
     - name: SSL Server Test
       url: https://www.ssllabs.com/ssltest/
       description: 測試 SSL 憑證的設定
+    - name: "Favicon Generator for all platforms: iOS, Android, PC/Mac..."
+      url: https://realfavicongenerator.net/
+      description: 產生適合各平台的 Favicon
 
 - name: Java
   items:
