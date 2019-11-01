@@ -35,6 +35,9 @@
     - name: "Favicon Generator for all platforms: iOS, Android, PC/Mac..."
       url: https://realfavicongenerator.net/
       description: 產生適合各平台的 Favicon
+    - name: SRI Hash Generator
+      url: https://www.srihash.org/
+      description: 線上計算 SRI Hash
 
 - name: Java
   items:
