@@ -16,7 +16,7 @@
     - name: Laravel
       url: https://laravel.com/
 
-- name: Tool
+- name: Online Tool
   items:
     - name: "REDbot: <>"
       url: https://redbot.org/
@@ -38,6 +38,14 @@
     - name: SRI Hash Generator
       url: https://www.srihash.org/
       description: 線上計算 SRI Hash
+    - name: Squoosh
+      url: https://squoosh.app/
+      description: Compress and compare images with different codecs, right in your browser.
+
+- name: Software
+  items:
+    - name: "Notepad++"
+      url: https://notepad-plus-plus.org/
 
 - name: Java
   items:
