@@ -34,16 +34,16 @@ date:   2019-11-16 19:41:00 +0800
 
 ## composer require
 在 `danny50610/mywebsite` 的 `composer.json` 加上
-```
+```json
 {
-    ...
+    //...
     "repositories": [
         {
             "type": "git",
             "url":  "git@gitlab.com:danny50610/website-core.git"
         }
     ],
-    ...
+    //...
 }
 ```
 `type` 請使用 `git`，不要用 `vcs`、`gitlab`，這樣 `composer` 才會使用 ssh  
