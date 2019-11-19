@@ -2,6 +2,7 @@
 layout: post
 title:  "讓 composer 使用位在 Gitlab 的 private package"
 date:   2019-11-16 19:41:00 +0800
+tags:   [laravel, composer, gitlab]
 ---
 
 之前發現兩個自己維護的網站有重複的 code  

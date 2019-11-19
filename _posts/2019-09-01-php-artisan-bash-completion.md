@@ -2,6 +2,7 @@
 layout: post
 title:  "php artisan bash completion"
 date:   2019-09-01 11:20:00 +0800
+tags:   [laravel]
 ---
 
 因為常常忘記 `php artisan` 的指令，需要自動補全(bash completion)  
