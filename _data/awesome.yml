@@ -44,6 +44,8 @@
 
 - name: Software
   items:
+    - name: "7-Zip"
+      url: https://www.7-zip.org/
     - name: "Notepad++"
       url: https://notepad-plus-plus.org/
 
