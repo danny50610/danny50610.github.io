@@ -23,6 +23,7 @@ url: "https://danny50610.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  danny50610
 author: danny50610
+lang: zh-Hant-TW
 
 excerpt_separator: <!--more-->
 show_excerpts: true
