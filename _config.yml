@@ -20,7 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   玩FGO、魔法紀錄、Minecraft
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danny50610.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+github:
+  url: "https://danny50610.github.io"
+
 github_username:  danny50610
 author: danny50610
 lang: zh-Hant-TW
