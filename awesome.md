@@ -10,7 +10,8 @@ permalink: /awesome/
 {% for awesome in site.data.awesome %}
     <h2>{{ awesome.name }}</h2>
     <ul>
-    {% for item in awesome.items %}
+    {% assign sortedItems = awesome.items | sort_natural: 'name' %}
+    {% for item in sortedItems %}
         <li>
             <strong>{{ item.name }}</strong>：<a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.url }}</a>
             {% if item.description %}
