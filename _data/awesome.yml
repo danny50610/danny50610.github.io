@@ -10,6 +10,10 @@
       url: https://caniuse.com/
     - name: Can I email… Support tables for HTML and CSS in emails
       url: https://www.caniemail.com/
+    - name: Semantic UI
+      url: https://semantic-ui.com/
+    - name: Vue.js
+      url: https://vuejs.org/
 
 - name: 後端
   items:
@@ -41,6 +45,8 @@
     - name: Squoosh
       url: https://squoosh.app/
       description: Compress and compare images with different codecs, right in your browser.
+    - name: gitignore.io
+      url: https://www.gitignore.io/
 
 - name: Software
   items:
