@@ -60,3 +60,10 @@
     - name: AdoptOpenJDK
       url: https://adoptopenjdk.net/index.html
       description: Prebuilt OpenJDK Binaries for Free!
+
+- name: Font
+  items:
+    - name: JetBrains Mono
+      url: https://www.jetbrains.com/lp/mono/
+    - name: Cascadia Code
+      url: https://github.com/microsoft/cascadia-code
