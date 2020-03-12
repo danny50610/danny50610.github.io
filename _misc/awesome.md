@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Awesome
-permalink: /awesome/
+description: "收錄一些常用的工具 & 網站，有時真的會忘記"
 ---
 
-收錄一些常用的工具 & 網站，有時真的會忘記
+{{ page.description | escape }}
 
 <div>
 {% for awesome in site.data.awesome %}
