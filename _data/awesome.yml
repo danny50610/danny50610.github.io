@@ -47,6 +47,8 @@
       description: Compress and compare images with different codecs, right in your browser.
     - name: gitignore.io
       url: https://www.gitignore.io/
+    - name: Mozilla SSL Configuration Generator
+      url: https://ssl-config.mozilla.org/
 
 - name: Software
   items:
@@ -54,6 +56,8 @@
       url: https://www.7-zip.org/
     - name: "Notepad++"
       url: https://notepad-plus-plus.org/
+    - name: sslscan
+      url: https://github.com/rbsec/sslscan
 
 - name: Java
   items:
