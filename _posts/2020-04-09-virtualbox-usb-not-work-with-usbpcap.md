@@ -19,7 +19,7 @@ tags:   [VirtualBox, USBPcap]
 USB device 'XXXXX' with UUID {xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} is busy with a previous request. Please try again later.
 ```
 
-參考資料：
-<a href="https://www.zachpfeffer.com/single-post/A-fix-for-a-USB-drive-or-any-USB-device-not-working-in-VirtualBox" target="_blank" rel="noopener">https://www.zachpfeffer.com/single-post/A-fix-for-a-USB-drive-or-any-USB-device-not-working-in-VirtualBox</a>
+參考資料：  
+<a href="https://www.zachpfeffer.com/single-post/A-fix-for-a-USB-drive-or-any-USB-device-not-working-in-VirtualBox" target="_blank" rel="noopener">https://www.zachpfeffer.com/single-post/A-fix-for-a-USB-drive-or-any-USB-device-not-working-in-VirtualBox</a>  
 <a href="https://github.com/desowin/usbpcap/issues/62" target="_blank" rel="noopener">https://github.com/desowin/usbpcap/issues/62</a>
 
