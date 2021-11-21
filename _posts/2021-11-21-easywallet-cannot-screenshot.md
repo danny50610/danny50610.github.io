@@ -14,7 +14,7 @@ tags:   [easywallet, android, screenshot]
 
 <!--more-->
 
-{% include image.html url="/assets/img/2021-11-21/cannot-screenshot.jpg" description="無法儲存螢幕擷取畫面" %}
+{% include image.html url="/assets/img/2021-11-21/cannot-screenshot.jpg" description="無法儲存螢幕擷取畫面" class="w-50" %}
 
 看到**「這個應用程式或貴機構不允許擷取螢幕畫面」**這句話，直覺想到是悠遊付主動擋掉的。  
 但在悠遊付裡面的找不到可以開啟的選項  
@@ -24,11 +24,11 @@ tags:   [easywallet, android, screenshot]
 **後來突發奇想，會不會是權限不夠**  
 於是開啟 APP 權限設定，先給予「儲存空間」的權限試試
 
-{% include image.html url="/assets/img/2021-11-21/app-permission.jpg" description="給予「儲存空間」的權限" %}
+{% include image.html url="/assets/img/2021-11-21/app-permission.jpg" description="給予「儲存空間」的權限" class="w-50" %}
 
 然後嘗試截圖就成功了
 
-{% include image.html url="/assets/img/2021-11-21/successful-screenshot.jpg" description="截圖成功" %}
+{% include image.html url="/assets/img/2021-11-21/successful-screenshot.jpg" description="截圖成功" class="w-50" %}
 
 如果遇到一樣的問題，可以試試這個解法  
 不確定為什麼會跟「儲存空間」的權限有關就是，其他 APP 沒給權限也能截圖

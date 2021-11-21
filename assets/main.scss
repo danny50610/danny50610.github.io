@@ -28,3 +28,10 @@ hr {
 figcaption {
     text-align: center;
 }
+
+@media all and (min-width: $content-width) {
+    .w-50 {
+        margin: auto;
+        width: 50%;
+    }
+}
