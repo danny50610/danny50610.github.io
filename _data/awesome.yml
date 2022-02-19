@@ -15,11 +15,6 @@
     - name: Vue.js
       url: https://vuejs.org/
 
-- name: 後端
-  items:
-    - name: Laravel
-      url: https://laravel.com/
-
 - name: Online Tool
   items:
     - name: 3v4l

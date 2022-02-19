@@ -1,0 +1,12 @@
+- name: PHP
+  items:
+    - name: Laravel
+      url: https://laravel.com/
+    - name: "PHP.Watch: PHP Articles, News, Upcoming Changes, RFCs, and more"
+      url: https://php.watch/
+    - name: "PHP: The Right Way"
+      url: https://phptherightway.com/
+    - name: "Laravel News"
+      url: https://laravel-news.com/
+    - name: "PHP Framework Interop Group - PHP-FIG"
+      url: https://www.php-fig.org/
