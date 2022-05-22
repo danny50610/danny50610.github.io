@@ -17,7 +17,7 @@ title: 阿德寫程式
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   沒事寫程式
-  玩FGO、魔法紀錄、Minecraft
+  玩FGO
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danny50610.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github:
