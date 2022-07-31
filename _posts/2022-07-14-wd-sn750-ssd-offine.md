@@ -124,3 +124,5 @@ GRUB_CMDLINE_LINUX=""
 
 沒想到 2022 年了，SSD (NVMe 也算常見的了吧)，還會有需要特別為硬體調整參數的麻煩事  
 而且居然有廠商不支援 Linux 工具，看來以後買 SSD 要多加確認了
+
+更新：沒想到有 [Part 2]({% post_url 2022-07-31-wd-sn750-ssd-offine-part2 %}) ...
