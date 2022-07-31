@@ -42,6 +42,10 @@ figcaption {
     -webkit-overflow-scrolling: touch;
 }
 
+h1, code {
+    word-wrap: break-word;
+}
+
 $aspect-ratios: (
   "1x1": 100%,
   "4x3": calc(3 / 4 * 100%),
