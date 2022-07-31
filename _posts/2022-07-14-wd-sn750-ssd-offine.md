@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SSD SN750 突然離線，檔案系統進入 Read-only"
+title:  "WD SSD SN750 突然離線，檔案系統進入 Read-only"
 date:   2022-07-14 22:05:00 +0800
 tags:   [ssd, SN750, westerndigital]
 ---
