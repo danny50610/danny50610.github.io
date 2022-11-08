@@ -9,8 +9,8 @@ tags:   [macbook, m1, docker, Vagrant, VirtualBox]
 雖然目前原本這台 Macbook 算是合乎使用，但有時真的會慢到受不了  
 而且也會有時還會很燙
 
-不過都花錢買新 Macbook 了，總要測試一下到底快了多少，確認一下換電腦的決定是好的  
-(雖然接下來比較沒有一個基準點就是，體感比較重要)
+不過都花錢買新 Macbook 了，總要測試一下到底快了多少，確認一下換電腦的決定是對的  
+(雖然很傷錢包)
 
 <!--more-->
 
@@ -97,4 +97,4 @@ Zend Engine v3.4.0, Copyright (c) Zend Technologies
 
 可以看到，速度是真的快上不少  
 特別是用上 virtiofs 之後，平均可以壓到 100 ms 以下  
-不過 virtiofs 是剛推出的功能，希望不會有太多 Bug
+不過 virtiofs 是剛整合進來的功能，希望不會有太多 Bug 啊
