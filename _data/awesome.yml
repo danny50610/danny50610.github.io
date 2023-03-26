@@ -55,6 +55,12 @@
       url: https://notepad-plus-plus.org/
     - name: sslscan
       url: https://github.com/rbsec/sslscan
+    - name: NirSoft
+      url: https://www.nirsoft.net/
+      description: 有很多實用的小工具
+    - name: WizTree
+      url: https://diskanalyzer.com/
+      description: 透過讀取 NTFS 的 MFT，可以用很快的速度分析硬碟空間使用情況
 
 - name: Java
   items:
