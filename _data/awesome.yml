@@ -45,7 +45,7 @@
     - name: Mozilla SSL Configuration Generator
       url: https://ssl-config.mozilla.org/
     - name: Packagist Semver Checker - madewithlove
-      url: https://semver.mwl.be//
+      url: https://semver.mwl.be/
 
 - name: Software
   items:
