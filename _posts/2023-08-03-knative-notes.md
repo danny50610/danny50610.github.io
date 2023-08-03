@@ -170,7 +170,7 @@ spec:
 ---
 ## API 開發遇到的問題
 
-範例真的有點少，這邊紀錄一下個人覺得比較沒有提到的部分
+範例真的有點少，這邊紀錄一下比較難找到的部分
 
 ## 從 Knative Serving 丟 Event 到 Broker
 
@@ -241,7 +241,7 @@ spec:
     ref:
       apiVersion: v1
       kind: Service
-      name: my-app
+      name: my-app-api
     uri: /process-job
 ```
 
