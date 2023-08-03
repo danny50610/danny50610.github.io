@@ -46,6 +46,14 @@ h1, code {
     word-wrap: break-word;
 }
 
+.language-mermaid {
+    background-color: unset;
+}
+
+pre, code.language-mermaid {
+    background-color: unset;
+}
+
 $aspect-ratios: (
   "1x1": 100%,
   "4x3": calc(3 / 4 * 100%),
