@@ -64,7 +64,7 @@
 
 - name: Java
   items:
-    - name: Adoptium (OpenJDK) (舊稱是: AdoptOpenJDK)
+    - name: "Adoptium (OpenJDK) (舊稱是: AdoptOpenJDK)"
       url: https://adoptium.net/
       description: Prebuilt OpenJDK Binaries for Free!
 
