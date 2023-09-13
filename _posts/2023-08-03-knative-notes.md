@@ -49,7 +49,7 @@ sequenceDiagram
 ### External Ip &lt;pending&gt;
 
 在安裝 Knative Serving 過程中，安裝 Kourier 後  
-發現 Kourier 的 `EXTERNAL-IP` 會一直是 <Pending>
+發現 Kourier 的 `EXTERNAL-IP` 會一直是 \<Pending\>
 
 ```bash
 kubectl --namespace knative-serving get service kourier
