@@ -13,7 +13,7 @@ tags:   [chrome, windows]
 
 由於新 Icon 的變得非常小，感覺很不直觀
 
-經過不斷的 Google 和 ChatGPT 後，終於到確認比較維護的改法
+經過不斷的 Google 和 ChatGPT 後，終於找到比較正確的改法
 
 修改下列機碼值
 ```
