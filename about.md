@@ -30,4 +30,4 @@ permalink: /about/
 
 ## 贊助
 ### Laracasts
-https://laracasts.com/referral/danny50610
+<a href="https://laracasts.com/referral/danny50610" target="_blank" rel="noopener">https://laracasts.com/referral/danny50610</a>
