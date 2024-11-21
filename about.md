@@ -27,3 +27,7 @@ permalink: /about/
 舊部落格連結：<a href="https://danny50610.blogspot.com/" target="_blank" rel="noopener">https://danny50610.blogspot.com/</a>
 
 那邊的文章就不會搬過來了
+
+## 贊助
+### Laracasts
+https://laracasts.com/referral/danny50610
