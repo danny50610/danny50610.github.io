@@ -33,3 +33,9 @@ tags:   [android, Emergency Alerts]
 沒有的話點下面的「新增應用程式」，把「無線緊急警報」加進去
 
 這樣應該就會有警示音了
+
+## 2025-06-18 補充
+
+警示提醒這邊的設定也可以檢查一下
+
+{% include image.html url="/assets/img/2022-07-31/警示提醒.jpg" class="w-50" %}
