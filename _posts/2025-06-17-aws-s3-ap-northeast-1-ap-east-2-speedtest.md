@@ -43,7 +43,7 @@ warp get --host=warp-benchmark-bucket-danny-test-ap-east-2.s3.dualstack.ap-east-
 
 ## 2025-06-24 補充測試成本
 
-使用 AWS 的 tag 功能，可以記錄特定 Bucket 的費用
+使用 AWS 的 tag 功能，可以記錄特定 Bucket 的費用  
 這邊包含為了熟悉 warp 有多幾次小測試  
 總共的費用是 USD 1.44  
 (還好有縮小測試數量和檔案大小)
