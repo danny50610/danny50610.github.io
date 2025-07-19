@@ -46,6 +46,12 @@ h1, code {
     word-wrap: break-word;
 }
 
+pre {
+    > code {
+        white-space: pre-wrap;
+    }
+}
+
 .language-mermaid {
     background-color: unset;
 }
