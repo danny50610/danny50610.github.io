@@ -225,7 +225,17 @@ $ crontab -e -u postgres
 
 ## 監控備份與 WAL 狀況
 
-// TODO: 待補充
+這邊使用 [pgbackrest_exporter](https://github.com/woblerr/pgbackrest_exporter) 將資訊串到 Prometheus   
+專案本身有提供 deb 安裝，相當方便  
+Dashboard 使用 pgbackrest_exporter 建立的[範本](https://grafana.com/grafana/dashboards/17709-pgbackrest-exporter-dashboard/)
+
+完成後，就可以觀察目前的備份狀態
+
+{% include image.html url="/assets/img/2025-07-28/pgbackrest-exporter-dashboard.png" %}
+
+接著故意使備份發生錯誤，觀察變化
+
+{% include image.html url="/assets/img/2025-07-28/pgbackrest-exporter-dashboard-invaild.png" %}
 
 ## 參考資料
 * <a href="https://pgbackrest.org/" target="_blank">pgBackRest Home page</a>
@@ -233,7 +243,3 @@ $ crontab -e -u postgres
 * <a href="https://dataegret.com/2025/02/avoiding-the-wal-archives-retention-trap-in-pgbackrest/" target="_blank">Avoiding the WAL Archives Retention Trap in pgBackRest</a>
 * <a href="https://medium.com/pgsql-tw/pgbackrest-%E5%85%A7%E5%BE%AA%E7%92%B0%E6%8C%81%E7%BA%8C%E5%82%99%E4%BB%BD-22fae06a1a61" target="_blank">pgBackRest 內循環持續備份</a>
 * <a href="https://bootvar.com/guide-to-setup-pgbackrest/" target="_blank">Step-by-Step Guide to setup pgBackRest</a>
-
-
-
-
