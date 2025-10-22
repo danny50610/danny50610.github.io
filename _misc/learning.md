@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Learning
-description: "學習資源"
+description: "收錄學習資源"
+visible: true
 ---
 
 {{ page.description | escape }}

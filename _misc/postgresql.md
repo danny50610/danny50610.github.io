@@ -2,6 +2,7 @@
 layout: page
 title: PostgreSQL Cheat Sheet
 description: "紀錄常用 PostgreSQL 指令"
+visible: true
 ---
 
 久久用一次，乾脆抄下來備用

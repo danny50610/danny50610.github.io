@@ -2,6 +2,7 @@
 layout: page
 title: Awesome
 description: "收錄一些常用的工具 & 網站，有時真的會忘記"
+visible: true
 ---
 
 {{ page.description | escape }}

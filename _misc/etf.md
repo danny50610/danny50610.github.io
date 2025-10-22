@@ -2,6 +2,7 @@
 layout: page
 title: ETF 相關資料
 description: "ETF 相關資料"
+visible: true
 ---
 
 - 股利類別比例

@@ -2,6 +2,7 @@
 layout: page
 title: Taiwan
 description: "收錄跟 Taiwan 🇹🇼 相關的線上資源"
+visible: true
 ---
 
 {{ page.description | escape }}
