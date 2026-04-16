@@ -46,6 +46,8 @@
       url: https://ssl-config.mozilla.org/
     - name: Packagist Semver Checker - madewithlove
       url: https://semver.mwl.be/
+    - name: Can I Run AI locally?
+      url: https://www.canirun.ai/
 
 - name: Software
   items:
